@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\pmodel\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\pmodel\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\model\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\model\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Program.cs",
+              "RelativeDocumentMoniker": "net2\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Program.cs",
+              "RelativeToolTip": "net2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:00:14.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuUsuario.cs",
+              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\PModel\\MenuUsuario.cs",
+              "RelativeDocumentMoniker": "net2\\PModel\\MenuUsuario.cs",
+              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\PModel\\MenuUsuario.cs",
+              "RelativeToolTip": "net2\\PModel\\MenuUsuario.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:00:11.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Model\\Producto.cs",
+              "RelativeDocumentMoniker": "net2\\Model\\Producto.cs",
+              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Model\\Producto.cs",
+              "RelativeToolTip": "net2\\Model\\Producto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:00:07.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opcion.cs",
+              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Model\\Opcion.cs",
+              "RelativeDocumentMoniker": "net2\\Model\\Opcion.cs",
+              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Model\\Opcion.cs",
+              "RelativeToolTip": "net2\\Model\\Opcion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:00:04.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

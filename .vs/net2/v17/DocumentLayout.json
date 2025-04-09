@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\db\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\db\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\DB\\Productos.cs",
+              "RelativeDocumentMoniker": "net2\\DB\\Productos.cs",
+              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\DB\\Productos.cs",
+              "RelativeToolTip": "net2\\DB\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:58:21.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Program.cs",
+              "RelativeDocumentMoniker": "net2\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Program.cs",
+              "RelativeToolTip": "net2\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:43:56.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
