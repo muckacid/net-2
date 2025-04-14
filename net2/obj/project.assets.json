@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\net2.csproj",
+      "projectUniqueName": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\net2.csproj",
       "projectName": "net2",
-      "projectPath": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\net2.csproj",
+      "projectPath": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\net2.csproj",
       "packagesPath": "C:\\Users\\morag\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\obj\\",
+      "outputPath": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

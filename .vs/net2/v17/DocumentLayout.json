@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\",
+  "WorkspaceRootPath": "D:\\Escritorio\\Nueva carpeta\\net-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\db\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\db\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\nueva carpeta\\net-2\\net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\2025\\1\\programacion .net\\martes\\proyecto\\net2\\net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\nueva carpeta\\net-2\\net2\\db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\db\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\nueva carpeta\\net-2\\net2\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\nueva carpeta\\net-2\\net2\\pmodel\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\pmodel\\menuusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\nueva carpeta\\net-2\\net2\\model\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\model\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|d:\\escritorio\\nueva carpeta\\net-2\\net2\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E3F377-D165-411A-AB4A-09CBC822A402}|net2\\net2.csproj|solutionrelative:net2\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Productos.cs",
-              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\DB\\Productos.cs",
-              "RelativeDocumentMoniker": "net2\\DB\\Productos.cs",
-              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\DB\\Productos.cs",
-              "RelativeToolTip": "net2\\DB\\Productos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Model\\Item.cs",
+              "RelativeDocumentMoniker": "net2\\Model\\Item.cs",
+              "ToolTip": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Model\\Item.cs",
+              "RelativeToolTip": "net2\\Model\\Item.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:06:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Opcion.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Model\\Opcion.cs",
+              "RelativeDocumentMoniker": "net2\\Model\\Opcion.cs",
+              "ToolTip": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Model\\Opcion.cs",
+              "RelativeToolTip": "net2\\Model\\Opcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:51:41.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Model\\Producto.cs",
+              "RelativeDocumentMoniker": "net2\\Model\\Producto.cs",
+              "ToolTip": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Model\\Producto.cs",
+              "RelativeToolTip": "net2\\Model\\Producto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:51:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuUsuario.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\PModel\\MenuUsuario.cs",
+              "RelativeDocumentMoniker": "net2\\PModel\\MenuUsuario.cs",
+              "ToolTip": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\PModel\\MenuUsuario.cs",
+              "RelativeToolTip": "net2\\PModel\\MenuUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:51:29.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\DB\\Inventario.cs",
+              "RelativeDocumentMoniker": "net2\\DB\\Inventario.cs",
+              "ToolTip": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\DB\\Inventario.cs",
+              "RelativeToolTip": "net2\\DB\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T15:58:21.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Program.cs",
               "RelativeDocumentMoniker": "net2\\Program.cs",
-              "ToolTip": "D:\\Escritorio\\2025\\1\\programacion .net\\Martes\\proyecto\\net2\\net2\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\Nueva carpeta\\net-2\\net2\\Program.cs",
               "RelativeToolTip": "net2\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T15:43:56.406Z",
               "EditorCaption": ""

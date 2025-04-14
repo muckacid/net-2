@@ -11,9 +11,7 @@ namespace net2.Model
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-
         public int Price { get; set; }
-
 
         public Producto()
         {
@@ -27,7 +25,6 @@ namespace net2.Model
             Description = description;
             Price = price;
         }
-
 
         public override string ToString()
         {

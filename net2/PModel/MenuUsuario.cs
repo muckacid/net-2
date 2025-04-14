@@ -18,7 +18,6 @@ namespace net2.PModel
             this.Opciones = new List<Opcion>();
         }
 
-
         public override string ToString()
         {
             string str = "";

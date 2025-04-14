@@ -7,14 +7,14 @@ using net2.Model;
 
 namespace net2.DB
 {
-    class Productos
+    class Inventario
     {
         //conexion: instacia de la base de datos
-        public List<Producto> Data { set; get; }
+        public List<Item> Data { set; get; }
 
-        public Productos()
+        public Inventario()
         {
-            Data = new List<Producto>();
+            Data = new List<Item>();
         }
     }
 }
